@@ -1,0 +1,189 @@
+/**/
+body {
+  height: auto;
+}
+
+/* -----------------------------------HOME PAGE --------------------------------*/
+.homelogo/*OK*/
+{
+    background-color: rgb(215, 183, 99);
+    text-align: center
+}
+
+.homebutton/*OK*/
+{
+    background-color: rgb(215, 183, 99);
+    border: solid 3px rgb(215, 183, 99);
+    text-align: center
+}
+width=60 height=40
+
+.phototaille
+{
+    width: 1px;
+    height: 1px;
+}
+.homeentete/*OK*/
+{
+  background-color: rgb(10, 44, 56);
+  margin-bottom: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  margin: 0;
+  color: rgb(215, 183, 99);
+  text-align: center
+}
+
+{
+    background-size: 100%
+}
+
+.operateur
+{
+  background-color: rgb(10, 44, 56);
+  background-size: 100%;
+  padding: 0px 0px;
+  margin: 0;
+  text-align: center
+}
+.background-color/*OK*/
+    {
+       background-color: rgb(10, 44, 56);
+
+    }
+
+.background-logo/*OK*/
+    {
+       background-color: rgb(215, 183, 99);
+    }
+
+.homebutton
+{
+  background-color: rgb(10, 44, 56);
+  color: rgb(215, 183, 99);
+  font-family: "Arial", serif;
+  font-size: 10px;
+  text-align: center;
+  margin: 0 0 30px 0
+}
+.jaune
+{
+    color: rgb(215, 183, 99);
+    text-align: center
+}
+
+
+.celebgrandcadre/* OK*/
+{
+border: solid 3px rgb(215, 183, 99);
+margin-right: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+margin-top: 10px
+}
+
+.artiste
+{
+text-align: center;
+}
+
+.right_align
+{
+    text-align: right;
+    margin : 0px;
+}
+
+.celebjaunetextjustify
+{
+    text-align: justify;
+    color: rgb(215, 183, 99);
+    padding: 5px 5px 5px 5px
+}
+.celebcremetextjustify
+{
+    text-align: justify;
+    color: rgb(240, 238, 226);
+    padding: 5px 5px 5px 5px
+}
+
+/* PAGE APP3 ------------------- CIRCUITS HUGO - SON UNIVERS--------------------*/
+
+
+.background-logohugo/*OK*/
+    {
+       background-color: rgb(120, 123, 54);
+    }
+
+.background-hugo/*OK*/
+{
+    background-color: rgb(240, 238, 226);
+}
+
+
+.hugotextjustify
+{
+    text-align: justify;
+    color: rgb(215, 183, 99);
+    padding: 5px 5px 5px 5px
+}
+
+
+.hugograndcadre/* OK*/
+{
+border: solid 4px rgb(120, 123, 54);
+margin-right: 10px;
+margin-left: 10px;
+}
+
+.hugocadre
+{
+border: solid 1px rgb(120, 123, 54);
+}
+
+.mad
+{
+margin-top: 25px;
+}
+
+.circuithugobutton/*OK*/
+{
+    background-color: rgb(215, 183, 99);
+    border: solid 2px rgb(10, 44, 56);
+    color: rgb(240, 238, 226);
+    text-align: center
+}*/
+
+
+/* ---------------------------MAP NICOLAS-------------------------------*/
+
+.map {
+    width:100%;
+    height:90vh;
+    background:white;
+
+  }
+
+.leaflet-container {
+ width:100%;
+    height:90vh;
+    background:white;
+
+}
+.my-div-icon {
+  background: url('./image/refresh_dance_fun_rockon_dj_human_behaviour_joy_2_swag_icon-icons.com_54846');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 50px;
+  height: 50px;
+}
+.leaflet-div-icon {
+  background: black;
+  background-repeat: no-repeat;
+  border: 0px;
+  width: 80px;
+  height: 80px;
+
+}
+.user-icon {
+   z-index: 15;
+}

@@ -1,0 +1,17 @@
+leaflet-react@1.0.0 /Users/nicolascoulon/Documents/DEV/Projects/node/cours/leaflet-react
+├─┬ react-redux@5.0.5 
+│ ├── hoist-non-react-statics@1.2.0 
+│ ├── invariant@2.2.2 
+│ ├── lodash@4.17.4 
+│ └── lodash-es@4.17.4 
+└─┬ redux@3.7.2 
+  └── symbol-observable@1.0.4 
+
+npm WARN leaflet-react@1.0.0 No description
+npm WARN leaflet-react@1.0.0 No repository field.
+leaflet-react@1.0.0 /Users/nicolascoulon/Documents/DEV/Projects/node/cours/leaflet-react
+├── react-redux@5.0.5 
+└── redux@3.7.2 
+
+npm WARN leaflet-react@1.0.0 No description
+npm WARN leaflet-react@1.0.0 No repository field.
