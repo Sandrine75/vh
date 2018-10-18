@@ -54291,7 +54291,7 @@ var Circuit1 = function (_React$Component4) {
                                         React.createElement('br', null),
                                         React.createElement(
                                             Link,
-                                            { to: '/celebetrip' },
+                                            { to: 'Coeur historique de Paris' },
                                             React.createElement(
                                                 'button',
                                                 { name: 'choix', id: 'submit', type: 'submit', value: 'hugo_circuit1', className: 'btn btn-default circuithugobutton', onClick: this.onIncreaseClick },
